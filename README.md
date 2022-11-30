@@ -1,2 +1,2 @@
 - I obtain over 90% accuracy for Churn Prediction models
-- I compare a plethora of Sklearn models and a model in Keras I built from scratch
+- I compare a plethora of Sklearn models and a hyperparameter tuned neural net model in Keras I built from scratch
