@@ -1,2 +1,3 @@
+- Super messy code 
 - I obtain over 90% accuracy for Churn Prediction models
 - I compare a plethora of Sklearn models and a hyperparameter tuned neural net model in object oriented Keras with custom architecture and training loop
